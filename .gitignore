@@ -1,3 +1,6 @@
 # virtuelle Umgebung bei Git ausschließen
 # wird über requirements.txt gleichgehalten
-.venv
+.venv/
+
+# kompilierte Python-Dateien ausschließen
+__pycache__/
